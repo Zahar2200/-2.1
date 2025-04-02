@@ -1,0 +1,2 @@
+C:\Users\fomen\source\repos\Завдання 2 .1\Завдання 2 .1\obj\Debug\Завдання 2 .1.csproj.AssemblyReference.cache
+C:\Users\fomen\source\repos\Завдання 2 .1\Завдання 2 .1\obj\Debug\Завдання 2 .1.csproj.CoreCompileInputs.cache
